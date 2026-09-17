@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 24.2.7.2 (Linux)"/>
+	<meta name="created" content="00:00:00"/>
+	<meta name="changed" content="2026-09-17T07:40:11.922617143"/>
+	<meta name="" content=""/>
+	<meta name="created" content="00:00:00">
+	<style type="text/css">
+		@page { size: 21cm 29.7cm; margin-left: 2cm; margin-right: 1cm; margin-top: 1cm; margin-bottom: 1cm }
+		p { line-height: 115%; margin-bottom: 0.25cm; background: transparent; background: transparent }
+		a:link { color: #000080; text-decoration: underline }
+		a:visited { color: #800000; text-decoration: underline }
+	</style>
+</head>
+<body lang="ru-RU" link="#000080" vlink="#800000" dir="ltr"><p style="line-height: 100%; margin-bottom: 0cm">
+<font face="times new roman, serif"><font size="4" style="font-size: 14pt">АВТОНОМНАЯ
+НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ ПРОФЕССИОНАЛЬНАЯ
+ОБРАЗОВАТЕЛЬНАЯ ОРГАНИЗАЦИЯ</font></font></p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm; background: transparent">
+<font face="times new roman, serif"><font size="4" style="font-size: 14pt">«МЕЖДУНАРОДНЫЙ
+КОЛЛЕДЖ БИЗНЕСА И ДИЗАЙНА»</font></font></p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm; background: transparent">
+<br/>
+
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm; background: transparent">
+<br/>
+
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><font face="times new roman, serif"><font size="4" style="font-size: 14pt">ЛАБОРАТОРНАЯ
+РАБОТА №1</font></font></p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><font face="times new roman, serif"><font size="4" style="font-size: 14pt">Исполнитель</font></font></p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><font face="times new roman, serif"><font size="4" style="font-size: 14pt">Рытов
+Вячеслав Григорьевич</font></font></p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><font face="times new roman, serif"><font size="4" style="font-size: 14pt">Специальность:
+09.02.07 Информационные системы и
+программирование</font></font></p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><font face="times new roman, serif"><font size="4" style="font-size: 14pt">Группа:
+ИС-25/9</font></font></p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><font face="times new roman, serif"><font size="4" style="font-size: 14pt">Руководитель
+курсовой работы _________________ <span lang="ru-RU">О</span>.А.Азаров</font></font></p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><font face="times new roman, serif"><font size="4" style="font-size: 14pt">подпись,
+дата</font></font></p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="center" style="line-height: 100%; margin-bottom: 0cm"><font face="times new roman, serif"><font size="4" style="font-size: 14pt">Москва
+2026</font></font></p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm; page-break-before: always">
+№<font face="times new roman, serif"><font size="4" style="font-size: 14pt">1
+создать католог, скрипт в </font></font><font face="times new roman, serif"><font size="4" style="font-size: 14pt"><span lang="en-US">vim</span></font></font></p>
+<p lang="en-US" align="left" style="line-height: 100%; margin-bottom: 0cm">
+<font face="times new roman, serif"><font size="4" style="font-size: 14pt">1
+создаем католог командой mkdir -p ~/lab1</font></font></p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><img src="%D0%BB%D0%B0%D0%B1%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%201%E2%80%A6_docx_4ebc5b9a.png" name="Image1" align="left" width="534" height="322" border="0"/>
+<br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm; page-break-before: always">
+№<font face="times new roman, serif"><font size="4" style="font-size: 14pt">2
+вывести имя католога и число файлов в
+нем и дату </font></font>
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><font face="times new roman, serif"><font size="4" style="font-size: 14pt">1
+создаем скрипт <span lang="en-US">vim lab1_v1.sh</span></font></font></p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><img src="%D0%BB%D0%B0%D0%B1%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%201%E2%80%A6_docx_743c592b.png" name="Image2" align="left" width="673" height="24" border="0"/>
+<br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><font face="times new roman, serif"><font size="4" style="font-size: 14pt">2
+открыть его и написать скрипт</font></font></p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><img src="%D0%BB%D0%B0%D0%B1%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%201%E2%80%A6_docx_e4f43a26.png" name="Image3" align="left" width="680" height="423" border="0"/>
+<br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><font face="times new roman, serif"><font size="4" style="font-size: 14pt">3
+выйте через <span lang="en-US">I esc :wq</span></font></font></p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><font face="times new roman, serif"><font size="4" style="font-size: 14pt"><span lang="en-US">4
+</span>зделать файл испполняемым и запуск
+скрипта</font></font></p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><img src="%D0%BB%D0%B0%D0%B1%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%201%E2%80%A6_docx_a467535.png" name="Image4" align="left" width="447" height="183" border="0"/>
+<br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><font face="times new roman, serif"><font size="4" style="font-size: 14pt">почемуто
+скрипт пишет вместо Дата <span lang="en-US">find
+</span>и имя каталога нету</font></font></p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm; page-break-before: always">
+№<font face="times new roman, serif"><font size="4" style="font-size: 14pt">3
+вывести список подкатологов и его имя</font></font></p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><font face="times new roman, serif"><font size="4" style="font-size: 14pt">1
+создаем скрипт <span lang="en-US">vim lab1_v2</span></font></font></p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><img src="%D0%BB%D0%B0%D0%B1%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%201%E2%80%A6_docx_879787b9.png" name="Image5" align="left" width="436" height="33" border="0"/>
+<br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="en-US" align="left" style="line-height: 100%; margin-bottom: 0cm">
+<font face="times new roman, serif"><font size="4" style="font-size: 14pt">2
+<span lang="ru-RU">вписываем скрипт </span></font></font>
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><img src="%D0%BB%D0%B0%D0%B1%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%201%E2%80%A6_docx_c74eac45.png" name="Image6" align="left" width="680" height="457" border="0"/>
+<br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p lang="en-US" align="left" style="line-height: 100%; margin-bottom: 0cm">
+<font face="times new roman, serif"><font size="4" style="font-size: 14pt"><span lang="ru-RU">3
+выходим из </span>vim </font></font>
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><font face="times new roman, serif"><font size="4" style="font-size: 14pt">4
+делаем скрипт исполняемым</font></font></p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><img src="%D0%BB%D0%B0%D0%B1%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%201%E2%80%A6_docx_b3c331fa.png" name="Image7" align="left" width="432" height="31" border="0"/>
+<br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><font face="times new roman, serif"><font size="4" style="font-size: 14pt">5
+результат </font></font>
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><img src="%D0%BB%D0%B0%D0%B1%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%201%E2%80%A6_docx_97b9edb3.png" name="Image8" align="left" width="680" height="100" border="0"/>
+<br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><font face="times new roman, serif"><font size="4" style="font-size: 14pt">у
+меня опять нету названия католога</font></font></p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm; page-break-before: always">
+№<font face="times new roman, serif"><font size="4" style="font-size: 14pt">4
+вывести: </font></font>
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><font face="times new roman, serif"><font size="4" style="font-size: 14pt">у
+меня не работает скрипт команда <span lang="en-US">od
+не выполняется</span></font></font></p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><img src="%D0%BB%D0%B0%D0%B1%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%201%E2%80%A6_docx_c4e2efd7.png" name="Image9" align="left" width="680" height="629" border="0"/>
+<br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+<p align="left" style="line-height: 100%; margin-bottom: 0cm"><br/>
+
+</p>
+</body>
+</html>
